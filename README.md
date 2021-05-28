@@ -4,8 +4,11 @@
 -   🎓  Formado em Analise e Desenvolvimento de Sistemas pela Faculdades Integradas Einstein de Limeira (FIEL);
 -   📁 5 meses de experiência como programador estágiario pela <strong>Intesis Brasil (2021).
 -   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript ,TypeScript e React
+  
 <hr />
+  
   🧑‍💻  Tecnologias: 
+  
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height="30"/>
