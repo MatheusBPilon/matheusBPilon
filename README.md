@@ -2,7 +2,7 @@
 
 -   🖥️  Desenvolvedor Front-End;
 -   🎓  Formado em Analise e Desenvolvimento de Sistemas pela Faculdades Integradas Einstein de Limeira (FIEL);
--   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript e TypeScript, React
+-   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript, TypeScript e React
 
 <hr />
   🧑‍💻  Tecnologias: 
