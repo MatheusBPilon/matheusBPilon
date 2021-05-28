@@ -2,8 +2,8 @@
 
 -   🖥️  Desenvolvedor Front-End;
 -   🎓  Formado em Analise e Desenvolvimento de Sistemas pela Faculdades Integradas Einstein de Limeira (FIEL);
+-   📁 5 meses de experiência como programador estágiario pela <strong>Intesis Brasil (2021).
 -   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript ,TypeScript e React
-- 5 meses de experiência como programador estágiario pela <strong>Intesis Brasil (2021).
 <hr />
   🧑‍💻  Tecnologias: 
 <p align="left">
