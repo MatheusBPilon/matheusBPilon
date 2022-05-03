@@ -3,11 +3,12 @@
 -   🖥️  Desenvolvedor Front-End;
 -   🎓  Formado em Analise e Desenvolvimento de Sistemas pela Faculdades Integradas Einstein de Limeira (FIEL);
 -   📁 5 meses de experiência como programador estágiario pela <strong>Intesis Brasil (2021).
+-   ⌨️  Trabalhando como programador jr pela <strong>Interconnect (2022).
 -   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript ,TypeScript e React
   
 <hr />
   
-  🧑‍💻  Tecnologias: 
+  🧑‍💻  Tecnologias: 	
   
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="30"/>
@@ -15,6 +16,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="30" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30"/>
   <hr />
 
 ### :telephone_receiver: Contatos: 
