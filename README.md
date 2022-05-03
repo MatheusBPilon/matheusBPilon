@@ -4,7 +4,7 @@
 -   🎓  Formado em Analise e Desenvolvimento de Sistemas pela Faculdades Integradas Einstein de Limeira (FIEL);
 -   📁 5 meses de experiência como programador estágiario pela <strong>Intesis Brasil (2021).
 -   ⌨️  Trabalhando como programador jr pela <strong>Interconnect (2022).
--   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript , TypeScript, React e PHP
+-   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript, PHP, AJAX e JQuery
   
 <hr />
   
