@@ -1,6 +1,6 @@
 ### 👦  Sobre Mim:
 
--   🖥️  Desenvolvedor Front-End;
+-   🖥️  Desenvolvedor FullStack;
 -   🎓  Formado em Analise e Desenvolvimento de Sistemas pela Faculdades Integradas Einstein de Limeira (FIEL);
 -   📁 5 meses de experiência como desenvolvedor estágiario pela <strong>Intesis Brasil (2021)</strong>.
 -   📁 1 ano de experiência como desenvolvedor pela <strong>Quadion (2022/2023)</strong>.
