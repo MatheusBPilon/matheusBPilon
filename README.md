@@ -2,9 +2,10 @@
 
 -   🖥️  Desenvolvedor Front-End;
 -   🎓  Formado em Analise e Desenvolvimento de Sistemas pela Faculdades Integradas Einstein de Limeira (FIEL);
--   📁 5 meses de experiência como programador estágiario pela <strong>Intesis Brasil (2021).
--   ⌨️  Trabalhando como programador jr pela <strong>Interconnect (2022)​😄​ </strong>.
--   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript, PHP, AJAX e JQuery
+-   📁 5 meses de experiência como desenvolvedor estágiario pela <strong>Intesis Brasil (2021).
+-   📁 1 ano de experiência como desenvolvedor pela <strong>Quadion (2022/2023).
+-   ⌨️  Trabalhando como Desenvolvedor Pleno pela <strong>Quadion (2022)​😄​ </strong>.
+-   🔭  Focado em estudar e aprimorar meus conhecimentos em JavaScript, React, Node, PHP, AJAX e JQuery
   
 <hr />
   
